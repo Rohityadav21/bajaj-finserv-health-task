@@ -1,0 +1,6 @@
+title,description,status,assignee_email
+"Database connection timeout","The application loses connection to the database after 30 seconds","open","john@example.com"
+"Add export to PDF feature","Users want to export reports as PDF files","open","jane@example.com"
+"Fix memory leak in background worker","Background jobs are consuming too much memory","urgent","bob@example.com"
+"Improve search performance","Search queries are taking more than 5 seconds","in_progress","john@example.com"
+"Add multi-language support","Support for English, Spanish, and French","open",""
